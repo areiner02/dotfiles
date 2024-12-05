@@ -1,0 +1,13 @@
+width = 100%
+height = 100%
+border-width = 0
+outline-width = 0
+padding-left = 35%
+padding-top = 32%
+result-spacing = 16
+num-results = 6
+font = Cantarell 
+font-size = 16
+background-color = #000A
+text-color = #dbbc7f
+selection-color = #fffede

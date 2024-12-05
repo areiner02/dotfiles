@@ -1,0 +1,27 @@
+/* background colors */
+@define-color b-grey-dimmer  #293136;
+@define-color b-grey-1  #333C43;
+@define-color b-grey-2  #3A464C;
+@define-color b-grey-3  #434F55;
+@define-color b-grey-4  #4D5960;
+@define-color b-grey-5  #555F66;
+@define-color b-grey-6  #5D6B66;
+@define-color b-visual  #5C3F4F;
+@define-color b-red  #59464C;
+@define-color b-green  #48584E;
+@define-color b-blue  #3F5865;
+@define-color b-yellow  #55544A;
+
+/* foreground colors */
+@define-color f-highlight  #FAEDCD;
+@define-color f-default  #D3C6AA;
+@define-color f-red  #E67E80;
+@define-color f-orange  #E69875;
+@define-color f-yellow  #DBBC7F;
+@define-color f-green  #A7C080;
+@define-color f-aqua  #83C092;
+@define-color f-blue  #7FBBB3;
+@define-color f-purple  #D699B6;
+@define-color f-grey-1  #7A8478;
+@define-color f-grey-2  #859289;
+@define-color f-grey-3  #9DA9A0;
